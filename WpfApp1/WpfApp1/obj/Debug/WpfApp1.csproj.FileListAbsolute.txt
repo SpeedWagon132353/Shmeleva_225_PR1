@@ -1,0 +1,15 @@
+C:\Shmeleva_225_1\Shmeleva_225_PR1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Shmeleva_225_1\Shmeleva_225_PR1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Shmeleva_225_1\Shmeleva_225_PR1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Shmeleva_225_1\Shmeleva_225_PR1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Shmeleva_225_1\Shmeleva_225_PR1\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Shmeleva_225_1\Shmeleva_225_PR1\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Shmeleva_225_1\Shmeleva_225_PR1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Shmeleva_225_1\Shmeleva_225_PR1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Shmeleva_225_1\Shmeleva_225_PR1\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Shmeleva_225_1\Shmeleva_225_PR1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Shmeleva_225_1\Shmeleva_225_PR1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Shmeleva_225_1\Shmeleva_225_PR1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Shmeleva_225_1\Shmeleva_225_PR1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Shmeleva_225_1\Shmeleva_225_PR1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Shmeleva_225_1\Shmeleva_225_PR1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb

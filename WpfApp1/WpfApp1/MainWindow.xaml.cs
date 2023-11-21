@@ -24,5 +24,19 @@ namespace WpfApp1
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            int a, p;
+            tbanswer.Clear();
+            if(!int.TryParse(numberA.Text, out a))
+            {
+
+            }
+
+            p = 4 * a;
+
+            tbanswer.Text += $"{p}";
+        }
     }
 }

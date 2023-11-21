@@ -7,6 +7,22 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <TextBlock Text="Введите a" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+        <TextBlock Text="" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+        <StackPanel Grid.Row="1" Grid.ColumnSpan="2">
+            <TextBlock Text="Ввывод" HorizontalAlignment="Center"></TextBlock>
+            <TextBox Name="tbanswer" Height="80"></TextBox>
+        </StackPanel>
+        <TextBox Grid.Column="1" Name="numberA" Height="30"/>        
+        <Button Content="Выполнить" Grid.ColumnSpan="2" Margin="16" Height="42" Grid.Row="2" Click="Button_Click"/>
     </Grid>
 </Window>
